@@ -4,9 +4,25 @@
 
 # Visionary AI Gallery App
 
+![Status: Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-FF6B6B?style=for-the-badge) ![Vibe: Coding](https://img.shields.io/badge/Vibe-Coding-8A2BE2?style=for-the-badge)
+
 **Visionary AI Gallery App** is an intelligent, modern media gallery application that brings advanced Artificial Intelligence capabilities to your local photo and video archives. Built with React, Vite, Capacitor, and powered by the Google Gemini API, it categorizes, understands, and retrieves your media through both semantic text search and image-based similarity search.
 
 Originally created in [Google AI Studio](https://ai.studio/apps/drive/1lSuEr0OgNAoZXIIk2JL6RdZT-1KBnsiC), this project has been significantly expanded to support both desktop web and native mobile platforms.
+
+## 🚧 Project Status & Roadmap
+
+This project is currently under **active development (Work in Progress)**. Following the "Vibe Coding" philosophy, the goal is to continuously explore, iterate, and integrate new AI concepts to push the boundaries of what a personal, private gallery can achieve without relying on strictly traditional software development patterns.
+
+**Current Progress & To-Do:**
+- [x] Initial responsive UI and Layout implementation (React 19 + Tailwind v4)
+- [x] Integration with Google Gemini (3 Flash Preview) for semantic media analysis
+- [x] Local text-based semantic search engine
+- [x] Image-based similarity search
+- [x] Cross-platform scaffolding (Web & Capacitor Native iOS/Android)
+- [ ] Implement smart automatic tagging and dynamic album generation
+- [ ] Refine mobile user experience, touch gestures, and native pagination
+- [ ] Explore on-device/local LLM execution for enhanced privacy
 
 ## ✨ Key Features
 
