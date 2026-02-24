@@ -1,0 +1,7 @@
+{
+  "name": "Visionary AI Gallery",
+  "description": "A high-performance media gallery featuring AI-powered semantic search and image-to-image similarity detection using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
